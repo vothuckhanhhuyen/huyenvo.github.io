@@ -398,7 +398,13 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-our-paper-got-accepted-at-neurips-2022",
+            },},{id: "news-i-m-going-to-aistats-2026-in-tangier-morocco-️",
+          title: 'I’m going to AISTATS 2026 in Tangier, Morocco ✈️',
+          description: "",
+          section: "News",},{id: "news-our-paper-got-accepted-at-icml-2026",
+          title: 'Our paper got accepted at ICML 2026! 🎉',
+          description: "",
+          section: "News",},{id: "news-our-paper-got-accepted-at-neurips-2022",
           title: 'Our paper got accepted at NeurIPS 2022! 🎉',
           description: "",
           section: "News",},{id: "news-i-started-my-phd-at-the-cs-max-planck-phd-program-excited-for-the-journey-ahead",
