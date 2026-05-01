@@ -408,7 +408,7 @@ ninja.data = [{
           title: 'My first PhD paper got a Spotlight (2.5%) at AISTATS 2026! 🎉',
           description: "",
           section: "News",},{id: "news-i-m-going-to-aistats-2026-in-tangier-morocco-️",
-          title: 'I’m going to AISTATS 2026 in Tangier, Morocco ✈️',
+          title: 'I’m going to AISTATS 2026 in Tangier, Morocco. ✈️',
           description: "",
           section: "News",},{id: "news-our-paper-got-accepted-at-icml-2026",
           title: 'Our paper got accepted at ICML 2026! 🎉',
